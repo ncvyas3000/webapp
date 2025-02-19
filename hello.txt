@@ -14,3 +14,5 @@ Protection rules configure
 Protection Done
 Test on main branch
 Testing
+New Rule update
+abc123
